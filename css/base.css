@@ -8,6 +8,7 @@
     }
 
     .logo {
+        float: left;
         width: 265px;
         height: 40px;
     }
@@ -15,7 +16,7 @@
     /*Navigation Bar*/
 
     header {
-        width: 100%;
+        width: 98%;
         height: 60px;
         border: 5px #fff;
         background-color: rgb(32, 32, 36);
@@ -60,8 +61,8 @@
 
     .logo {
         float: left;
-        width: 25%;
-        height: 25%;
+        width: 132.5px;
+        height: 20px;
     }
 
     /*Navigation Bar*/

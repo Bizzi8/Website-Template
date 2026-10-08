@@ -9,7 +9,8 @@
     border: solid;
     border-color: #fff;
     margin-top: 6em;
-    margin-left: 35%;
+    margin-left: auto;
+    margin-right: auto;
     width: 490px;
     list-style: none;
   }

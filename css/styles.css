@@ -27,12 +27,12 @@
     color: #fff;
   }
   /*Article 1*/
-  .articleList div li {
+  .articleList #article-text li {
     margin-bottom: 3em;
     width: 100%;
     text-align: Left;
   }
-  .articleList div li a p {
+  .articleList #article-text li a p {
     margin-right: 1em;
     word-wrap: break-word;
   }
@@ -69,17 +69,17 @@
     color: #fff;
   }
   /*Article 1*/
-  .articleList div li {
+  .articleList #article-text li {
     margin-bottom: 3em;
     width: 100%;
     text-align: Left;
     font-size: 13px;
   }
+  .articleList #article-text li a p {
+    margin-right: 15%;
+  }
   .articleList li a {
     color: white;
     text-decoration: none;
-  }
-  .articleList div li p {
-    margin-right: 15%;
   }
 }

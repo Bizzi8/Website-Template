@@ -1,5 +1,6 @@
 /*Desktop Site*/
 @media only screen and (min-width: 600px) {
+    
     body {
     background-color: rgb(32, 32, 36);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -39,7 +40,9 @@
         color: white;
         text-decoration: none;
     }
+
     /*Divider*/
+
     hr.solid {
         border-top: 2px solid #fff;
         border-radius: 5px;
@@ -86,7 +89,9 @@
         color: white;
         text-decoration: none;
     }
+    
     /*Divider*/
+
     hr.solid {
         border-top: 2px solid #fff;
         border-radius: 5px;

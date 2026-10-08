@@ -1,3 +1,4 @@
+/*Desktop Site*/
 @media only screen and (min-width: 600px) {
     body {
     background-color: rgb(32, 32, 36);
@@ -45,6 +46,7 @@
     }
 }
 
+/*Mobile Site*/
 @media only screen and (max-width: 600px) {
     
     body {
@@ -52,7 +54,7 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bold;
     }
-    
+
     .logo {
         float: left;
         width: 25%;

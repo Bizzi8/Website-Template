@@ -14,7 +14,7 @@
     width: 490px;
     list-style: none;
   }
-  .articleList #Date {
+  .articleList .date {
     color: #fff;
     font-size: xx-large;
     margin-top: 1em;
@@ -27,12 +27,12 @@
     font-size: 12px;
     color: #fff;
   }
-  .articleList #article-text li {
+  .articleList .article-text li {
     margin-bottom: 3em;
     width: 100%;
     text-align: Left;
   }
-  .articleList #article-text li a p {
+  .articleList .article-text li a p {
     margin-right: 1em;
     word-wrap: break-word;
   }
@@ -55,7 +55,7 @@
     margin-top: 5em;
     list-style: none;
   }
-  .articleList #Date {
+  .articleList .date {
     color: #fff;
     font-size: xx-large;
     margin-top: 1em;
@@ -68,13 +68,13 @@
     font-size: 12px;
     color: #fff;
   }
-  .articleList #article-text li {
+  .articleList .article-text li {
     margin-bottom: 3em;
     width: 100%;
     text-align: Left;
     font-size: 13px;
   }
-  .articleList #article-text li a p {
+  .articleList .article-text li a p {
     margin-right: 15%;
   }
   .articleList li a {

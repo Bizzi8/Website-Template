@@ -27,7 +27,7 @@
     margin-top: 2em;
     height: 15em;
   }
-  .articleList source {
+  .articleList small {
     font-size: 12px;
     color: #fff;
   }
@@ -75,7 +75,7 @@
     margin-top: 2em;
     height: 10em;
   }
-  .articleList source {
+  .articleList small {
     font-size: 12px;
     color: #fff;
   }

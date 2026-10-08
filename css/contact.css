@@ -1,0 +1,86 @@
+/*Desktop Site*/
+@media only screen and (min-width: 600px) {
+  body {
+    background-color: rgb(32, 32, 36);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+  }
+
+  /*Contact Area*/
+
+  .container {
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 11%;
+    height: 10em;
+    background-color: rgb(20, 20, 24);
+    border-radius: 25px;
+    border: solid;
+    border-color: white;
+    color: white;
+  }
+  .head h1 {
+    text-align: center;
+  }
+
+  .container a{
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+  }
+
+  .contactButton {
+    width: 64px;
+    height: auto;
+    margin: auto;
+    margin-top: 2em;
+    border-radius: 10px;
+    border-color: #fff;
+    border: solid;
+    
+  }
+
+}
+
+/*Mobile Site*/
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: rgb(32, 32, 36);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+  }
+
+  /*Contact Area*/
+
+  .container {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 25%;
+    height: 10em;
+    background-color: rgb(20, 20, 24);
+    border-radius: 25px;
+    border: solid;
+    border-color: white;
+    color: white;
+  }
+  .head h1 {
+    text-align: center;
+  }
+  
+  .container a {
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+  }
+
+  .contactButton {
+    width: 64px;
+    height: auto;
+    margin: auto;
+    margin-top: 2em;
+    border-radius: 10px;
+    border-color: #fff;
+    border: solid;
+  }
+
+}

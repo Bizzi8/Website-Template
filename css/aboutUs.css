@@ -1,0 +1,33 @@
+/*Desktop Site*/
+@media only screen and (min-width: 600px) {
+  body {
+    background-color: rgb(32, 32, 36);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+  }
+
+  #container {
+    margin-top: 6em;
+    color: darkgray;
+  }
+  #container h3 {
+    color: #fff;
+  }
+}
+
+/*Mobile Site*/
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: rgb(32, 32, 36);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+  }
+
+  #container {
+    padding-top: 3em;
+    color: darkgray;
+  }
+  #container h3 {
+    color: #fff;
+  }
+}

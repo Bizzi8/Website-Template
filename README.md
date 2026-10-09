@@ -3,6 +3,10 @@
 A simple, dark-themed multi-page website template for article projects.
 Plain HTML and CSS, no build tools or frameworks.
 
+| Desktop: | Mobile: |
+| --- | --- |
+| <img src="README-Images/Website-Template-Desktop.png" width=500em></img> | <img src="README-Images/Website-Template-Mobile.png" width=145em></img> |
+
 ## Features
 
 - Shared header and styles across all pages (`css/base.css`)
@@ -52,6 +56,5 @@ and the root folder, and save. All paths are relative, so it works under
 any repository name.
 
 
-> **Note:** This template is based on a simple website I built with self-taught skills,
-> so the code isn't perfect. I plan to keep improving this repository over time,
-> especially the CSS.
+> [!Note:] 
+> This template is based on a simple website I built with self-taught skills, so the code isn't perfect. I plan to keep improving this repository over time especially the CSS.

@@ -4,6 +4,7 @@
   /*Articles/ArticleList*/
 
   .articleList {
+    width: 490px;
     background-color: rgb(20, 20, 24);
     border-radius: 25px;
     border: solid;
@@ -12,8 +13,6 @@
     margin-left: auto;
     margin-right: auto;
     padding-left: 40px;
-    width: 490px;
-    list-style: none;
   }
   .articleList .date {
     color: #fff;
@@ -50,13 +49,15 @@
   /*Articles/ArticleList*/
 
   .articleList {
+    width: 300px;
     background-color: rgb(20, 20, 24);
     border-radius: 25px;
     border: solid;
     border-color: #fff;
     margin-top: 5em;
+    margin-left: auto;
+    margin-right: auto;
     padding-left: 40px;
-    list-style: none;
   }
   .articleList .date {
     color: #fff;
@@ -77,7 +78,7 @@
     text-align: Left;
     font-size: 13px;
   }
-  .articleList .article-text a p {
+  .articleList .article-text p {
     margin-right: 15%;
   }
   .articleList a {

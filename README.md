@@ -56,5 +56,5 @@ and the root folder, and save. All paths are relative, so it works under
 any repository name.
 
 
-> [!Note:] 
+> [!NOTE] 
 > This template is based on a simple website I built with self-taught skills, so the code isn't perfect. I plan to keep improving this repository over time especially the CSS.
